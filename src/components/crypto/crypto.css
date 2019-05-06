@@ -1,0 +1,11 @@
+.fullname{
+    float:left;
+    
+}
+.name{
+    margin-left:16%
+}
+.price{
+    float:right;
+    color:green
+}

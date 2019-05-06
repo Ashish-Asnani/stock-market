@@ -1,0 +1,7 @@
+span{
+    line-height: 12px;
+}
+.transitonKaranaHai{
+transition-duration: 4s;
+    transition-timing-function: ease-in-out;
+}
